@@ -1,5 +1,5 @@
 # TowerDefenceGame
-TowerDefenceGame made with JavaFX
+TowerDefenceGame made with Java +javaSwing
 Start the game by running the Game.bat file when downloaded.
 Note: Tested on java version "22.0.1" 2024-04-16
 
