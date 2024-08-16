@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "Game.bat",0,True
